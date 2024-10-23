@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: var(--font-roboto-mono);
+}
+
+h1 {
+  color: #d9d9d9;
+  font-size: 128px;
+}
+
+h3 {
+  color: #d9d9d9;
+}
