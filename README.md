@@ -10,4 +10,6 @@ O projeto foi feito usando Framework NextJS com deploy na vercel, [você pode ac
 ### Protótipo
 O protótipo do projeto foi feito no Figma, [você pode acessar aqui!](https://www.figma.com/design/V3J666qgJtc55fYPwcE9sE/Online-Clock?node-id=0-1&t=pBYGmWy8UmSZJ6KT-1) Conheça mais sobre o [Figma](https://www.figma.com/)
 
+![screenshot](https://github.com/user-attachments/assets/1b3d8bd8-1936-4056-bf3f-e7f755baeed5)
+
 Feito com apreço por Carlos ツ
